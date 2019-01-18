@@ -31,7 +31,7 @@ switch (x, y) =
 -- 部分適用
 -- add2 = add 2とすると、引数をひとつだけ入れたものを用意できる。
 
--- 　ユニオン型
+-- 　Custom Type
 type Answer = Yes | No | Other String
 -- respond : Answer -> String
 -- respond answer =
@@ -67,3 +67,4 @@ type alias Message something =
 
 -- readMessage: Message () -> Stringとすると空を示せる
 -- ()をユニット型という
+
