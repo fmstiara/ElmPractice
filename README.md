@@ -4,9 +4,9 @@
 - Elmチュートリアルというものがあるが、それは0.18に対応
 - 最新は0.19らしいので、最新で勉強する。
 
-## elmとwebpackがセットになったやつ
+## 参考アイテム
 - [Github elm-webpack-starter](https://github.com/simonh1000/elm-webpack-starter)
-
+- [Github elm-spa-example](https://github.com/rtfeldman/elm-spa-example)
 ## 参考サイト
 - [elm公式サイト](https://elm-lang.org/)
 - [elm公式ガイド](https://guide.elm-lang.jp/)
